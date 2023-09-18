@@ -1,0 +1,19 @@
+fieldset{
+  width: 400px;text-align: center;
+  padding: 20px; background-color: rgb(97, 121, 241);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+legend{
+  text-align: center;color: white;
+  background-color: rgb(37, 67, 220);
+  padding: 10px;
+}
+
+.b{
+  margin-left: 20px;
+  background-color: rgb(15, 15, 188);color: white;
+}
+
+input{
+  border-radius: 10px;padding: 10px;
+}
